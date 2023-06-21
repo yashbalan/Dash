@@ -1,5 +1,3 @@
-pip install plotly 
-pip install px
 
 import pandas as pd
 import streamlit as st
