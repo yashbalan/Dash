@@ -1,7 +1,10 @@
+pip install plotly 
+pip install px
+
 import pandas as pd
 import streamlit as st
 from datetime import datetime
-import plotly.express as px                    # pip install plotly #pip install px
+import plotly.express as px                   
 import plotly.graph_objects as go
 import numpy as np
 import pandas as pd
